@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.8.2.0</version>
+    <version>0.8.3.0</version>
     <url>https://raw.githubusercontent.com/yotzer/Bul_public/master/Setup.msi</url>    
     <mandatory>true</mandatory>
 </item>
